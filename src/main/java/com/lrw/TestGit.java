@@ -11,6 +11,7 @@ public class TestGit {
         System.out.println("test git");
         System.out.println("test test git");
         System.out.println("test push");
+        System.out.println("test pull");
     }
 
 }
